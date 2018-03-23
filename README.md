@@ -1,4 +1,3 @@
-# baitaplon
 /*
 - Chuong trinh choi co caro
 - ver 1.1
