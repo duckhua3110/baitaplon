@@ -8,7 +8,7 @@ Thời gian hoàn thành: 3 tuần
 
 Luật chơi:
 
--2 nguời lần lượt đánh X và O vào các tọa độ. Ai có 5 ô liên tiếp kề nhau theo hàng ngang , cột dọc , đường chéo chính (phụ) và ko bị chặn 2 đầu bởi đối thủ sẽ chiến thắng
+-2 nguời lần lượt đánh X và O vào các tọa độ. Ai có 5 ô liên tiếp kề nhau theo hàng ngang , cột dọc , đường chéo chính (phụ) trước và ko bị chặn 2 đầu bởi đối thủ sẽ chiến thắng
 
 Hướng phát triển trò chơi trong tương lai:
 - Nâng cấp cho chơi với máy
